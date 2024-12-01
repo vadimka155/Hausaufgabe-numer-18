@@ -12,6 +12,12 @@
 /*------------------------------------------HEADER-------------------------------------------------------*/
 
 
+.navigation{
+  display: flex;
+}
+
+
+
 
 
 .navigation-wrap{
@@ -22,7 +28,6 @@
 
 
 }
-
 
 
 
@@ -92,7 +97,7 @@ font-family: "Raleway";
 .container{ 
   width: 1170px;
   margin: 0 auto;
-  padding: 15px;
+  padding:0 15px;
 }
 
 
@@ -250,6 +255,7 @@ img{
   line-height: 1.4;
   font-weight: 900;
   text-align: center;
+  margin-top: 200px;
 }
 
 
